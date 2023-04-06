@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "sophisticode.php-formatter",
+    "esbenp.prettier-vscode"
+  ]
+}
